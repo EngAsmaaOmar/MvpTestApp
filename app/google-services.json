@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479668590351",
+    "firebase_url": "https://myfristtest-b169d.firebaseio.com",
+    "project_id": "myfristtest-b169d",
+    "storage_bucket": "myfristtest-b169d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479668590351:android:17fa8d6ab1c6b764",
+        "android_client_info": {
+          "package_name": "com.example.omar.navigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479668590351-chfe6em56dcvdfngko3ihs6qei56lq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbtgGezNOkcT7A5a7jwndATqYUWjP_1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
